@@ -21,7 +21,6 @@ class SplashActivity : BaseFontActivity() {
 
         val intent = Intent(this, ComicSplashActivity::class.java)
         intent.putExtra(Constants.COMIC_ADMOB_ID_BANNER, getString(R.string.str_b))
-        intent.putExtra(Constants.COMIC_SHOW_DONATION, true)
         startActivity(intent)
         LActivityUtil.transActivityNoAnimation(this)
         finish()
