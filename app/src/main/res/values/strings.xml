@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">Truyen Tranh VN</string>
-    <!--    https://apps.admob.com/v2/apps/1609709961/adunits/list?_ga=2.175467234.1542385735.1605082666-212292846.1605082666-->
-    <string name="str_b">ca-app-pub-2765899636044020/7082023330</string>
-    <string name="str_f">ca-app-pub-2765899636044020/9105056605</string>
-    <string name="str_reward">ca-app-pub-2765899636044020/2320651249</string>
-    <string name="str_app_id">ca-app-pub-2765899636044020~1609709961</string>
+
+<!--    https://apps.admob.com/v2/apps/8376617659/adunits/list-->
+    <string name="str_b">ca-app-pub-3165963943681013/5750454312</string>
+    <string name="str_f">ca-app-pub-3165963943681013/7694091378</string>
+<!--    <string name="str_reward"></string>-->
+    <string name="str_app_id">ca-app-pub-3165963943681013~8376617659</string>
 
 </resources>
