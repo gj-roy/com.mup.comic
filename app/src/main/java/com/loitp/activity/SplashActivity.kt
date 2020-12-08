@@ -23,6 +23,7 @@ class SplashActivity : BaseFontActivity() {
         intent.putExtra(Constants.COMIC_ADMOB_ID_BANNER, getString(R.string.str_b))
         startActivity(intent)
         LActivityUtil.transActivityNoAnimation(this)
-        finish()
+//        LActivityUtil.tranIn(this)
+        finishAffinity()
     }
 }
